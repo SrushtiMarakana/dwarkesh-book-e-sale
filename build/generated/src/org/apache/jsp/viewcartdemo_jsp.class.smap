@@ -1,0 +1,13 @@
+SMAP
+viewcartdemo_jsp.java
+JSP
+*S JSP
+*F
++ 0 viewcartdemo.jsp
+viewcartdemo.jsp
++ 1 footer.jsp
+footer.jsp
+*L
+5,41:49
+5#1,16:89
+*E

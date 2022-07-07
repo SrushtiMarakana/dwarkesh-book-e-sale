@@ -1,0 +1,316 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 29 Jun, 2022, 9:41:23 AM
+    Author     : Dell
+*/
+
+.align_left{
+    float: left;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.align_right{
+    float: right;
+    margin-top: 25px;
+    margin-right: 40px;
+}
+header{
+    height: 80px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.line{
+    background-color:#ffcc33;
+    height:20px;
+}
+.search{
+    background-color:#ECECEC;
+    height:auto;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+.searcharea{
+    width:600px;
+    height:30px;
+    margin-bottom: 9px;
+    margin-right: 10px;
+    border:10px;
+}
+.link{
+    color: #ffcc33;
+    font-size: 18px;
+    font-weight:500;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.searchbox{
+    background-color:#03C04A;
+    color:white;
+    height: 32px;
+    border: 0px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 18px;
+}
+.cart{
+    margin-top: 10px;
+    height:auto;
+    width: 150px;
+    float:right;
+    padding-bottom: 5px;
+    padding-top: 1px;
+    margin-right: 100px;
+    font-size: 16px;
+}
+footer{
+    background-color:#ECECEC;
+    height:20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.footer{
+    margin-left: 40%;  
+}
+.copyright{
+    margin-left: 41%;
+    color:grey;
+}
+.line1{
+    margin-top: 20px;
+    background-color:#003366;
+    height:20px;
+}
+.cart1{
+    margin-top: 10px;
+    height:auto;
+    width: 150px;
+    float:right;
+    padding-bottom: 5px;
+    padding-top: 1px;
+    margin-right: 40px;
+    font-size: 16px;
+}
+.text1{
+    font-size: 18px;
+    font-weight:500;
+}
+.title1{
+    margin-left: 45%;
+    margin-top: 15px;
+}
+.title2{
+    margin-left: 35%;
+    margin-top: 20px;
+}
+.text2{
+    font-size: 35px;
+    font-weight: 700;
+}
+.line2{
+    background-color:#ffcc33;
+    height: 4px;
+    margin-left: 570px;
+    margin-right: 570px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.body_align_left{
+    float: left;
+    margin-top:10px;
+    margin-left: 130px;
+}
+.body_align_right{
+    float: right;
+    margin-top: 10px;
+    margin-right: 200px;
+}
+.body{
+    height: 400px;
+}
+.a1{
+    color:grey;
+    font-size: 19px;
+}
+
+loginform{
+    margin-top: 10px;
+}
+.form_label{
+    font-size: 20px;
+}
+.form_input{
+    width: 450px;
+    height: 30px;
+    margin-top: 15px;
+    margin-bottom: 25px;
+    font-size: 16px;
+}
+ul{
+    font-size: 20px;
+}
+
+.loginbutton{
+    background-color:#ffcc33;
+    color:white;
+    border:0px;
+    width: 120px;
+    height: 35px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 19px;
+}
+.registerbutton{
+    background-color:#ffcc33;
+    color:white;
+    border:0px;
+    width: 200px;
+    height: 35px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 19px;
+    margin-top: 123px;
+}
+.booksearchbox{
+    background-color:#03C04A;
+    color:white;
+    height: 32px;
+    border: 0px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 18px;
+}
+.booksearcharea{
+    width:300px;
+    height:30px;
+    margin-bottom: 9px;
+    margin-right: 10px;
+    border:10px;
+    font-size: 16px;
+}
+.booksearch{
+    background-color:#ECECEC;
+    height:auto;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.searchby{
+    background-color:#ffcc33;
+    color:white;
+    height: 35px;
+    border: 0px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 20px;
+    padding-top: 3px;
+    padding-bottom: 7px;
+    margin-right: 10px;
+}
+.searchbyarea{
+    width:170px;
+    height:31px;
+    margin-bottom: 1px;
+    margin-right: 10px;
+    border:10px;
+    font-size: 16px;
+    margin-right: 20px;
+}
+.operatorbox{
+    background-color:#ffcc33;
+    color:white;
+    height: 35px;
+    border: 0px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 20px;
+    padding-top: 3px;
+    padding-bottom: 7px;
+    margin-right: 10px;
+}
+.operatorarea{
+    width:100px;
+    height:31px;
+    margin-bottom: 1px;
+    margin-right: 10px;
+    border:10px;
+    font-size: 16px;
+    margin-right: 20px;
+}
+.addnewproduct{
+    margin-left: 688px;
+    background-color:#ffcc33;
+    color:white;
+    border:0px;
+    height: 35px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 22px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-decoration: #ffcc33;
+    font-weight: 500;
+}
+.clearall{
+    margin-left: 10px;
+    background-color:#ffcc33;
+    color:white;
+    border:0px;
+    height: 35px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 19px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-decoration: #ffcc33;
+}
+.title3{
+    margin-left: 39.5%;
+    margin-top: 20px;
+}
+.addproduct{
+    background-color:#ffcc33;
+    color:white;
+    border:0px;
+    width: 150px;
+    height: 35px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 19px;
+}
+.addtocartbutton{
+    margin-left: 50px;
+    background-color:#ffcc33;
+    color:white;
+    border:0px;
+    width: 200px;
+    height: 35px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-decoration: #ffcc33;
+}
+.addnewproductbyseller{
+    margin-left: 580px;
+    background-color:#ffcc33;
+    color:white;
+    border:0px;
+    height: 35px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 22px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-decoration: #ffcc33;
+    font-weight: 500;
+}

@@ -1,0 +1,51 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 1 Jul, 2022, 10:03:22 AM
+    Author     : Dell
+*/
+.bookbody{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.booktexttitle{
+    font-size: 30px;
+    padding-left: 50px;
+    font-weight: 700;
+}
+.booktextdesc{
+    font-size: 22px;
+    padding-left: 50px;
+}
+.booktextprice{
+    font-size: 23px;
+    padding-left: 50px;
+}
+.book_image{
+    padding-left: 130px;
+}
+.bookborder{
+    border: 2px solid black; 
+}
+
+.bookltsting{
+    margin-left: 43%;
+    margin-top: 15px;
+}
+.booklistingline{
+    background-color:#ffcc33;
+    height: 4px;
+    margin-left: 600px;
+    margin-right: 590px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.totalitem{
+    font-size: 22px;
+    font-weight: 700;
+}
+
+

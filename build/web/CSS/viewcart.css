@@ -1,0 +1,113 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 1 Jul, 2022, 1:44:24 PM
+    Author     : Dell
+*/
+.viewbody{
+    margin-left: 230px;
+    margin-right: 230px;
+}
+.viewimage{
+    padding-left: 90px;
+}
+.imageborder{
+    border: 1px solid black;
+}
+.viewname{
+    padding-left: 50px;
+    font-size: 24px;
+    font-weight: 600;
+}
+.viewquantity{
+    padding-left: 50px;
+}
+.viewprice{
+    padding-left: 50px;
+    font-size: 20px;
+}
+.forremove{
+    padding-left: 40px;
+}
+.addquantity{
+    border: 1px solid #ffcc33;
+    background-color:#ffcc33; 
+    text-decoration:#ffcc33;
+    color: white;
+    font-size: 20px;
+    padding-left: 3px;
+    padding-right: 3px;
+    font-weight: 600;
+    margin-right: 10px;
+}
+.removequantity{
+    border: 1px solid #ffcc33;
+    background-color:#ffcc33; 
+    text-decoration:#ffcc33;
+    color: white;
+    font-size: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-weight: 600;
+    margin-right: 10px;
+}
+.quantity{
+    border: 1px solid black;
+    font-size: 20px;
+    padding-left: 3px;
+    padding-right: 3px;
+    font-weight: 300;
+    margin-right: 10px;
+}
+.placeorder{
+    border: 1px solid #ffcc33;
+    background-color:#ffcc33; 
+    text-decoration:#ffcc33;
+    color: white;
+    font-size: 22px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 390px;
+}
+.viewcart{
+    margin-left: 45%;
+    margin-top: 15px;
+}
+.viewcartline{
+    background-color:#ffcc33;
+    height: 4px;
+    margin-left: 595px;
+    margin-right: 575px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.addbook{
+    border: 1px solid #ffcc33;
+    background-color:#ffcc33; 
+    text-decoration:#ffcc33;
+    color: white;
+    font-size: 22px;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 90px;
+}
+.shoppingbag{
+    font-size: 22px;
+    font-weight: 700;
+    margin-left: 270px;
+}
+.totalprice{
+    font-size: 22px;
+    font-weight: 700;
+    margin-right: 270px;
+    float:right;
+}
