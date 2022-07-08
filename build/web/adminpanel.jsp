@@ -28,7 +28,7 @@
             <img src="images/logo.jpg" height="80px">
         </div>  
         <div class="align_right">
-            <span style="color: blue; font-size: 18px;font-weight:500;margin-left: 10px;margin-right: 10px;"> Welcome <%=uname%></span> |  <a class="link" href="adminrights.jsp?uname=<%=uname%>&uid=<%=uid%>">Admin Rights</a> |
+            <span style="color: blue; font-size: 18px;font-weight:500;margin-left: 10px;margin-right: 10px;"> Welcome <%=uname%></span> |  <a class="link" href="adminrights.jsp?uname=<%=uname%>&uid=<%=uid%>">Admin Rights</a> | <a class="link" href="userdetails.jsp?uname=<%=uname%>&uid=<%=uid%>">User Details</a> |
             <a class="link" href="updateprofileadmin.jsp?uname=<%=uname%>&uid=<%=uid%>">Update Profile</a> | <a class="link" href="logout.jsp">LOG OUT</a><br>
             </div>
         </header>

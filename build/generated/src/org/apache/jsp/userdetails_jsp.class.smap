@@ -1,0 +1,18 @@
+SMAP
+userdetails_jsp.java
+JSP
+*S JSP
+*F
++ 0 userdetails.jsp
+userdetails.jsp
++ 1 footer.jsp
+footer.jsp
+*L
+5,8:55
+12,15:63
+27:78,15
+28:93,5
+29,10:98
+5#1,24:107
+38#0:130
+*E
